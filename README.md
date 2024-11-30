@@ -1,4 +1,5 @@
-# IE406_video
+# Undergraduate Research Project
+# CSE 20191009 Daegeol Ko
 
 
 
